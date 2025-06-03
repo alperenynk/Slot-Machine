@@ -20,9 +20,3 @@ A simple console-based slot machine game written in Java. Users can deposit mone
     - 2 matching symbols: smaller reward
     - No match: loss of bet
 5. Game continues until the user quits or runs out of money.
-
-## 🖥️ Technologies Used
-
-- Java (Standard Edition)
-- `java.util.Scanner`
-- `java.util.Random`
