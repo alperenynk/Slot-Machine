@@ -1,4 +1,4 @@
-# Java Slot Machine 🎰
+# Slot Machine 🎰
 
 A simple console-based slot machine game written in Java. Users can deposit money, place bets, and spin for a chance to win based on randomly generated emoji symbols.
 
